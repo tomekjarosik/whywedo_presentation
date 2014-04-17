@@ -413,6 +413,38 @@ div.triad-state-bg {
     background-repeat: no-repeat;
 }
 
+#target-six-human-needs-step1 {
+	width: 700px;
+    padding-bottom: 700px;
+
+    background-image: url(../img/6-human-needs.png);
+	background-size:100% 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+#map-belief-system {
+	width: 700px;
+    padding-bottom: 700px;
+    background-image: url(../img/beliefsmap.jpg);
+	background-size:100% 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+#daily-emotions-life-fuel {
+	width: 700px;
+    padding-bottom: 700px;
+    background-image: url(../img/emotions2.jpg);
+	background-size:100% 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+.future-hidden.future {
+	display: none;
+}
+
 /*
     There is nothing really special about 'use the source, Luke' step, too,
     except maybe of the Yoda background.
