@@ -405,10 +405,11 @@ div.triad-state-bg {
 
 #mind-world-map-step1 {
 	width: 700px;
+	height: 700px;
     padding-bottom: 700px;
 
-    background-image: url(../img/mentalmap.png);
-	background-size:100% 100%;
+    background-image: url(../img/work_vs_play_world_model.jpg);
+	background-size:85% 85%;
     background-position: bottom right;
     background-repeat: no-repeat;
 }
